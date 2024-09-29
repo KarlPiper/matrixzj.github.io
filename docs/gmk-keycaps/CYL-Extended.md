@@ -59,8 +59,7 @@ NOTE: USD to CNY exchange rate is 7.12
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2024-02-03 ~ 2024-02-23  
 * Estimated Shipping Time: 2024 Q3  
-* Color Codes:  
-
+* Color Codes: BV & L9
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/CYL-Extended/rendering_pics/0.png' | relative_url }}" alt="0" class="image featured">
